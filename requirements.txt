@@ -1,0 +1,7 @@
+transformers
+sentencepiece
+rouge_score
+wandb
+numpy
+torch
+nltk
