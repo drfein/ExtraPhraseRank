@@ -5,3 +5,8 @@ wandb
 numpy
 torch
 nltk
+datasets
+summa
+BackTranslation
+pandas
+tqdm

@@ -1,0 +1,41 @@
+
+
+
+  0%|▏                                                                                          | 3/2001 [01:13<14:24:57, 25.97s/it]Traceback (most recent call last):
+  File "finetune_xSumFake.py", line 182, in <module>
+    trainer.train()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/trainer_seq2seq.py", line 75, in evaluate
+    return super().evaluate(eval_dataset, ignore_keys=ignore_keys, metric_key_prefix=metric_key_prefix)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/trainer.py", line 2000, in evaluate
+    metric_key_prefix=metric_key_prefix,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/trainer.py", line 2146, in evaluation_loop
+    loss, logits, labels = self.prediction_step(model, inputs, prediction_loss_only, ignore_keys=ignore_keys)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/trainer_seq2seq.py", line 170, in prediction_step
+    **gen_kwargs,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/generation_utils.py", line 1044, in generate
+    **model_kwargs,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/generation_utils.py", line 1775, in beam_search
+    output_hidden_states=output_hidden_states,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 1299, in forward
+    return_dict=return_dict,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 1187, in forward
+    return_dict=return_dict,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 1053, in forward
+    use_cache=use_cache,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 399, in forward
+    output_attentions=output_attentions,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 248, in forward
+    attn_output = torch.bmm(attn_probs, value_states)
+KeyboardInterrupt
