@@ -61,3 +61,1449 @@
 2022-02-25 03:18:58,125 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
 2022-02-25 03:18:58,126 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
 2022-02-25 03:19:10,111 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:19:13,332 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:19:13,332 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:19:14,695 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:19:28,441 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:19:28,441 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:19:43,778 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:19:43,779 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:19:45,614 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:19:48,260 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:19:58,963 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:19:58,964 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:20:14,219 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:20:14,220 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:20:16,442 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:20:28,400 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:20:30,015 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:20:30,015 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:20:45,168 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:20:45,168 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:20:47,416 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:21:00,320 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:21:00,320 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:21:04,518 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:21:15,477 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:21:15,478 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:21:18,372 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:21:30,722 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:21:30,723 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:21:42,658 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:21:45,933 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:21:45,934 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:21:49,389 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:22:01,210 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:22:01,210 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:22:16,332 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:22:16,333 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:22:16,788 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:22:20,363 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:22:31,563 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:22:31,564 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:22:46,700 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:22:46,700 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:22:51,397 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:22:52,927 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:23:01,972 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:23:01,973 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:23:17,105 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:23:17,105 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:23:22,461 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:23:29,065 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:23:32,289 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:23:32,289 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:23:47,403 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:23:47,404 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:23:53,463 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:24:02,976 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:24:02,976 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:24:05,196 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:24:18,112 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:24:18,112 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:24:24,401 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:24:33,219 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:24:33,219 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:24:41,327 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:24:48,332 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:24:48,332 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:24:55,406 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:25:03,763 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:25:03,763 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:25:17,469 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:25:18,870 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:25:18,870 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:25:26,335 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:25:34,402 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:25:34,402 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:25:49,927 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:25:49,927 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:25:53,594 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:25:57,224 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:26:05,061 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:26:05,061 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:26:20,206 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:26:20,207 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:26:28,303 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:26:29,718 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:26:35,322 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:26:35,323 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:26:50,432 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:26:50,433 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:26:59,301 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:27:05,566 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:27:05,567 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:27:05,863 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:27:20,689 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:27:20,690 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:27:30,283 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:27:35,829 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:27:35,829 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:27:44,000 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:27:50,979 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:27:50,979 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:28:01,257 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:28:06,157 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:28:06,157 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:28:20,127 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:28:21,290 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:28:21,290 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:28:32,216 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:28:36,423 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:28:36,424 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:28:51,531 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:28:51,532 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:28:56,257 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:29:03,229 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:29:06,650 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:29:06,651 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:29:21,763 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:29:21,763 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:29:32,382 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:29:34,170 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:29:36,900 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:29:36,901 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:29:52,017 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:29:52,017 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:30:05,119 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:30:07,127 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:30:07,127 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:30:08,517 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:30:22,243 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:30:22,243 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:30:36,142 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:30:37,371 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:30:37,371 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:30:44,645 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:30:52,488 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:30:52,488 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:31:07,176 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:31:07,837 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:31:07,837 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:31:22,773 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:31:23,023 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:31:23,023 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:31:37,976 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:31:38,275 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:31:38,276 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:31:53,406 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:31:53,409 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:32:02,913 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:32:08,672 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:32:08,672 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:32:08,838 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:32:23,816 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:32:23,817 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:32:38,954 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:32:38,954 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:32:39,688 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:32:41,040 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:32:54,365 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:32:54,365 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:33:09,486 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:33:09,486 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:33:10,630 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:33:17,152 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:33:24,619 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:33:24,619 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:33:40,035 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:33:40,036 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:33:41,538 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:33:53,286 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:33:55,134 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:33:55,135 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:34:10,522 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:34:10,522 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:34:12,404 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:34:25,753 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:34:25,754 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:34:27,402 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:34:41,190 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:34:41,192 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:34:43,290 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:34:56,663 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:34:56,663 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:35:03,518 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:35:11,778 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:35:11,778 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:35:14,242 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:35:26,901 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:35:26,902 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:35:41,651 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:35:42,037 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:35:42,038 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:35:45,141 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:35:57,187 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:35:57,187 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:36:12,339 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:36:12,340 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:36:15,767 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:36:16,129 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:36:27,467 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:36:27,467 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:36:42,575 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:36:42,575 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:36:47,084 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:36:52,908 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:36:57,697 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:36:57,697 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:37:12,804 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:37:12,804 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:37:18,070 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:37:27,960 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:37:27,961 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:37:28,023 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:37:43,081 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:37:43,083 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:37:49,005 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:37:58,205 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:37:58,206 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:38:03,132 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:38:13,316 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:38:13,317 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:38:19,925 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:38:28,419 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:38:28,419 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:38:39,258 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:38:43,536 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:38:43,536 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:38:50,926 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:38:58,663 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:38:58,663 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:39:13,796 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:39:13,798 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:39:15,391 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:39:21,879 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:39:28,913 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:39:28,913 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:39:44,017 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:39:44,019 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:39:51,515 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:39:52,811 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:39:59,119 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:39:59,119 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:40:14,256 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:40:14,256 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:40:23,780 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:40:27,654 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:40:29,382 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:40:29,382 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:40:44,526 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:40:44,527 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:40:55,759 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:40:59,649 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:40:59,649 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:41:06,937 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:41:14,784 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:41:14,784 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:41:27,771 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:41:29,897 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:41:29,897 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:41:45,031 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:41:45,032 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:41:49,240 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:41:59,756 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:42:00,176 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:42:00,177 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:42:15,295 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:42:15,296 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:42:29,533 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:42:30,431 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:42:30,432 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:42:31,891 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:42:45,806 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:42:45,809 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:43:02,059 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:43:02,060 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:43:03,982 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:43:07,815 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:43:17,180 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:43:17,181 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:43:32,314 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:43:32,314 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:43:36,044 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:43:47,448 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:43:47,450 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:43:48,124 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:44:02,588 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:44:02,589 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:44:08,034 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:44:17,756 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:44:17,757 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:44:28,415 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:44:32,909 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:44:32,911 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:44:40,118 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:44:48,074 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:44:48,075 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:45:03,216 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:45:03,216 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:45:10,714 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:45:12,176 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:45:18,362 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:45:18,363 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:45:33,504 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:45:33,504 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:45:44,282 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:45:48,740 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:45:48,740 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:45:51,029 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:46:03,886 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:46:03,887 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:46:23,910 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:46:31,321 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:46:37,661 ERROR   SenderThread:35063 [retry.py:__call__():126] Retry attempt failed:
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/util/retry.py", line 368, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 306, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/sdk/lib/retry.py", line 102, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/sdk/internal/internal_api.py", line 140, in execute
+    return self.client.execute(*args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/vendor/gql-0.2.0/gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/vendor/gql-0.2.0/gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/vendor/gql-0.2.0/gql/transport/requests.py", line 38, in execute
+    request = requests.post(self.url, **post_args)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/api.py", line 119, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=10)
+2022-02-25 03:46:43,931 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:47:02,595 ERROR   SenderThread:35063 [internal_api.py:execute():143] 500 response executing GraphQL.
+2022-02-25 03:47:02,597 ERROR   SenderThread:35063 [internal_api.py:execute():144] {"error":"Error 1040: Too many connections"}
+2022-02-25 03:47:03,975 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:47:07,894 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream. func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 56, 'content': ['{"system.cpu": 19.08, "system.memory": 69.84, "system.disk": 85.67, "system.proc.memory.availableMB": 2470.76, "system.proc.memory.rssMB": 121.89, "system.proc.memory.percent": 1.49, "system.proc.cpu.threads": 13.0, "system.network.sent": 10790912, "system.network.recv": 45352960, "_wandb": true, "_timestamp": 1645789544, "_runtime": 1780}']}, 'output.log': {'offset': 0, 'content': ['ERROR 2022-02-25T11:45:50.549149   1%|▊                                                                                         | 48/5101 [29:01<56:29:51, 40.25s/it]\n']}}, 'dropped': 0}}
+2022-02-25 03:47:11,586 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:47:22,240 ERROR   SenderThread:35063 [internal_api.py:execute():143] 500 response executing GraphQL.
+2022-02-25 03:47:22,240 ERROR   SenderThread:35063 [internal_api.py:execute():144] {"error":"Error 1040: Too many connections"}
+2022-02-25 03:47:23,997 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:47:41,433 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream. func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 56, 'content': ['{"system.cpu": 19.08, "system.memory": 69.84, "system.disk": 85.67, "system.proc.memory.availableMB": 2470.76, "system.proc.memory.rssMB": 121.89, "system.proc.memory.percent": 1.49, "system.proc.cpu.threads": 13.0, "system.network.sent": 10790912, "system.network.recv": 45352960, "_wandb": true, "_timestamp": 1645789544, "_runtime": 1780}']}, 'output.log': {'offset': 0, 'content': ['ERROR 2022-02-25T11:45:50.549149   1%|▊                                                                                         | 48/5101 [29:01<56:29:51, 40.25s/it]\n']}}, 'dropped': 0}}
+2022-02-25 03:47:44,040 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:47:49,869 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:48:00,830 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:48:00,831 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:48:04,069 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:48:24,089 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:48:30,169 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:48:34,549 ERROR   SenderThread:35063 [retry.py:__call__():126] Retry attempt failed:
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/util/retry.py", line 368, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connectionpool.py", line 306, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/sdk/lib/retry.py", line 102, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/sdk/internal/internal_api.py", line 140, in execute
+    return self.client.execute(*args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/vendor/gql-0.2.0/gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/vendor/gql-0.2.0/gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/vendor/gql-0.2.0/gql/transport/requests.py", line 38, in execute
+    request = requests.post(self.url, **post_args)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/api.py", line 119, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=10)
+2022-02-25 03:48:44,103 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:48:47,041 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream. func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 57, 'content': ['{"system.cpu": 20.69, "system.memory": 69.43, "system.disk": 85.67, "system.proc.memory.availableMB": 2504.23, "system.proc.memory.rssMB": 122.3, "system.proc.memory.percent": 1.49, "system.proc.cpu.threads": 13.0, "system.network.sent": 11010048, "system.network.recv": 46096384, "_wandb": true, "_timestamp": 1645789576, "_runtime": 1812}']}}, 'dropped': 0}}
+2022-02-25 03:48:48,664 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:49:04,149 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:49:08,445 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:49:12,543 ERROR   SenderThread:35063 [internal_api.py:execute():143] 500 response executing GraphQL.
+2022-02-25 03:49:12,543 ERROR   SenderThread:35063 [internal_api.py:execute():144] {"error":"Error 1040: Too many connections"}
+2022-02-25 03:49:12,543 ERROR   SenderThread:35063 [retry.py:__call__():126] Retry attempt failed:
+Traceback (most recent call last):
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/sdk/lib/retry.py", line 102, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/sdk/internal/internal_api.py", line 146, in execute
+    six.reraise(*sys.exc_info())
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/six.py", line 703, in reraise
+    raise value
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/sdk/internal/internal_api.py", line 140, in execute
+    return self.client.execute(*args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/vendor/gql-0.2.0/gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/vendor/gql-0.2.0/gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/Users/danielfein/Library/Python/3.7/lib/python/site-packages/wandb/vendor/gql-0.2.0/gql/transport/requests.py", line 39, in execute
+    request.raise_for_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/graphql
+2022-02-25 03:49:13,389 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream. func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 57, 'content': ['{"system.cpu": 20.69, "system.memory": 69.43, "system.disk": 85.67, "system.proc.memory.availableMB": 2504.23, "system.proc.memory.rssMB": 122.3, "system.proc.memory.percent": 1.49, "system.proc.cpu.threads": 13.0, "system.network.sent": 11010048, "system.network.recv": 46096384, "_wandb": true, "_timestamp": 1645789576, "_runtime": 1812}']}}, 'dropped': 0}}
+2022-02-25 03:49:17,414 ERROR   SenderThread:35063 [internal_api.py:execute():143] 500 response executing GraphQL.
+2022-02-25 03:49:17,414 ERROR   SenderThread:35063 [internal_api.py:execute():144] {"error":"Error 1040: Too many connections"}
+2022-02-25 03:49:17,790 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream. func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 57, 'content': ['{"system.cpu": 20.69, "system.memory": 69.43, "system.disk": 85.67, "system.proc.memory.availableMB": 2504.23, "system.proc.memory.rssMB": 122.3, "system.proc.memory.percent": 1.49, "system.proc.cpu.threads": 13.0, "system.network.sent": 11010048, "system.network.recv": 46096384, "_wandb": true, "_timestamp": 1645789576, "_runtime": 1812}']}}, 'dropped': 0}}
+2022-02-25 03:49:24,161 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:49:26,908 ERROR   SenderThread:35063 [internal_api.py:execute():143] 500 response executing GraphQL.
+2022-02-25 03:49:26,908 ERROR   SenderThread:35063 [internal_api.py:execute():144] {"error":"Error 1040: Too many connections"}
+2022-02-25 03:49:27,628 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream. func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 57, 'content': ['{"system.cpu": 20.69, "system.memory": 69.43, "system.disk": 85.67, "system.proc.memory.availableMB": 2504.23, "system.proc.memory.rssMB": 122.3, "system.proc.memory.percent": 1.49, "system.proc.cpu.threads": 13.0, "system.network.sent": 11010048, "system.network.recv": 46096384, "_wandb": true, "_timestamp": 1645789576, "_runtime": 1812}']}}, 'dropped': 0}}
+2022-02-25 03:49:44,179 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:49:44,995 ERROR   SenderThread:35063 [internal_api.py:execute():143] 500 response executing GraphQL.
+2022-02-25 03:49:44,995 ERROR   SenderThread:35063 [internal_api.py:execute():144] {"error":"Error 1040: Too many connections"}
+2022-02-25 03:49:48,752 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:50:04,206 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:50:24,244 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:50:24,650 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:50:24,651 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:24,747 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:50:24,748 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:24,838 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:24,932 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:50:24,933 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:25,028 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:25,119 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:50:25,119 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:25,206 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:50:25,207 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:25,300 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:25,388 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:50:25,389 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:25,482 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:50:25,483 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:25,571 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:29,067 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:50:32,875 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:50:40,725 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:50:40,726 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:50:55,844 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:50:55,845 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:51:04,882 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:51:08,389 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:51:10,981 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:51:10,981 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:51:26,119 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:51:26,119 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:51:37,081 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:51:41,225 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:51:41,225 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:51:48,705 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:51:56,374 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:51:56,374 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:52:09,209 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:52:11,971 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:52:11,972 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:52:26,968 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:52:27,698 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:52:27,698 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:52:41,305 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:52:42,906 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:52:42,906 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:52:58,079 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:52:58,080 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:53:07,229 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:53:13,210 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:53:13,211 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:53:13,331 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:53:28,338 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:53:28,339 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:53:43,455 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:53:43,455 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:53:45,397 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:53:47,522 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:53:58,571 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:53:58,571 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:54:13,749 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:54:13,749 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:54:17,594 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:54:28,860 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:54:28,861 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:54:29,884 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:54:44,010 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:54:44,010 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:54:49,532 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:54:59,147 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:54:59,147 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:55:10,197 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:55:14,276 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:55:14,277 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:55:21,649 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:55:29,408 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:55:29,408 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:55:44,533 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:55:44,533 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:55:50,471 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:55:53,705 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:55:59,669 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:55:59,669 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:56:14,788 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:56:14,789 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:56:25,937 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:56:29,917 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:56:29,917 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:56:30,798 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:56:45,044 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:56:45,044 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:56:58,186 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:57:00,150 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:57:00,151 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:57:11,080 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:57:15,291 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:57:15,292 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:57:30,435 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:57:30,436 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:57:30,529 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:57:45,560 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:57:45,561 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:57:51,430 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:58:00,696 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:58:00,696 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:58:02,725 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:58:15,811 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:58:15,811 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:58:30,929 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:58:30,929 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:58:31,747 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:58:34,915 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:58:46,044 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:58:46,044 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:59:01,179 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:59:01,180 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:59:07,049 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:59:12,044 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 03:59:16,310 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:59:16,310 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:59:31,433 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:59:31,433 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:59:39,149 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 03:59:46,568 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 03:59:46,568 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 03:59:52,344 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:00:01,724 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:00:01,724 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:00:11,158 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:00:16,830 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:00:16,830 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:00:31,965 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:00:31,966 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:00:32,647 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:00:43,281 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:00:47,086 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:00:47,086 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:01:02,209 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:01:02,211 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:01:10,903 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:01:15,292 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:01:17,336 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:01:17,336 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:01:32,445 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:01:32,446 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:01:47,342 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:01:47,571 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:01:47,572 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:01:52,211 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:02:02,709 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:02:02,712 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:02:17,853 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:02:17,854 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:02:19,502 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:02:32,503 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:02:32,957 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:02:32,957 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:02:48,104 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:02:48,105 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:02:51,592 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:03:03,230 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:03:03,231 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:03:12,796 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:03:18,343 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:03:18,343 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:03:23,646 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:03:33,463 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:03:33,464 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:03:48,590 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:03:48,590 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:03:53,116 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:03:55,816 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:04:03,697 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:04:03,697 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:04:18,930 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:04:18,930 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:04:27,836 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:04:33,385 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:04:34,060 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:04:34,060 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:04:49,185 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:04:49,185 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:04:59,896 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:05:04,304 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:05:04,304 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:05:13,686 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:05:19,426 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:05:19,427 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:05:31,917 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:05:34,546 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:05:34,546 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:05:49,666 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:05:49,666 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:05:53,972 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:06:03,900 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:06:04,774 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:06:04,775 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:06:19,878 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:06:19,879 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:06:32,235 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:06:34,999 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:06:34,999 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:06:35,885 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:06:50,119 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:06:50,119 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:07:05,244 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:07:05,246 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:07:07,905 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:07:14,550 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:07:20,382 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:07:20,382 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:07:35,499 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:07:35,499 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:07:39,872 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:07:50,629 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:07:50,629 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:07:52,811 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:08:05,739 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:08:05,739 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:08:12,008 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:08:20,882 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:08:20,882 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:08:35,146 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:08:35,989 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:08:35,990 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:08:44,130 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:08:51,110 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:08:51,110 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:09:06,232 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:09:06,232 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:09:15,424 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:09:16,130 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:09:21,380 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:09:21,381 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:09:36,504 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:09:36,504 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:09:48,160 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:09:51,658 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:09:51,658 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:09:55,690 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:10:06,783 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:10:06,783 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:10:20,107 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:10:21,904 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:10:21,904 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:10:33,958 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:10:37,045 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:10:37,045 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:10:52,155 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:10:52,175 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:10:52,176 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:11:07,300 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:11:07,301 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:11:14,256 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:11:22,442 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:11:22,443 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:11:24,246 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:11:37,573 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:11:37,574 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:11:52,690 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:11:52,690 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:11:54,538 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:11:56,363 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:12:07,802 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:12:07,802 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:12:22,910 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:12:22,910 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:12:28,381 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:12:34,837 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:12:38,095 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:12:38,095 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:12:53,272 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:12:53,272 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:13:00,513 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:13:08,391 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:13:08,391 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:13:15,135 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:13:23,522 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:13:23,522 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:13:32,625 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:13:38,652 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:13:38,652 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:13:53,769 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:13:53,770 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:13:55,416 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:14:04,692 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:14:08,867 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:14:08,867 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:14:23,993 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:14:23,995 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:14:34,712 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:14:36,692 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:14:39,128 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:14:39,128 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:14:54,242 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:14:54,243 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:15:08,794 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:15:09,381 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:15:09,381 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:15:15,012 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:15:24,497 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:15:24,497 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:15:39,597 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:15:39,598 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:15:40,752 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:15:54,707 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:15:54,707 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:15:55,305 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:16:09,818 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:16:09,818 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:16:12,864 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:16:24,931 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:16:24,931 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:16:35,613 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:16:40,039 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:16:40,040 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:16:45,062 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:16:55,151 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:16:55,151 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:17:10,281 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:17:10,281 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:17:13,906 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:17:17,109 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:17:25,380 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:17:25,380 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:17:40,520 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:17:40,521 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:17:49,206 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:17:54,181 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:17:55,645 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:17:55,645 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:18:10,761 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:18:10,761 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:18:21,271 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:18:25,892 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:18:25,893 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:18:34,476 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:18:41,020 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:18:41,021 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:18:53,272 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:18:56,146 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:18:56,146 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:19:11,271 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:19:11,271 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:19:14,760 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:19:25,346 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:19:26,425 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:19:26,425 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:19:41,550 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:19:41,550 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:19:55,064 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:19:56,668 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:19:56,668 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:19:57,491 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:20:11,784 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:20:11,784 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:20:26,889 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:20:26,889 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:20:29,584 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:20:35,360 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:20:42,017 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:20:42,017 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:20:57,129 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:20:57,129 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:21:01,695 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:21:12,257 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:21:12,257 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:21:15,632 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:21:27,371 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:21:27,371 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:21:33,612 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:21:42,507 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:21:42,508 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:21:55,910 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:21:57,648 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:21:57,649 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:22:05,697 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:22:12,751 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:22:12,752 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:22:27,885 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:22:27,885 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:22:36,193 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:22:37,768 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:22:43,000 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:22:43,000 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:22:58,112 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:22:58,113 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:23:10,047 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:23:13,303 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:23:13,304 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:23:15,499 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:23:28,428 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:23:28,428 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:23:42,199 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:23:43,541 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:23:43,541 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:23:55,811 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:23:58,685 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:23:58,685 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:24:13,818 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:24:13,819 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:24:14,247 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:24:28,939 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:24:28,939 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:24:36,117 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:24:44,048 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:24:44,048 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:24:46,351 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:24:59,144 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:24:59,144 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:25:14,245 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:25:14,246 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:25:16,416 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:25:18,432 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:25:29,368 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:25:29,368 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:25:44,473 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:25:44,474 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:25:50,624 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:25:56,727 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:25:59,588 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:25:59,588 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:26:14,700 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:26:14,701 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:26:22,632 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:26:29,823 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:26:29,825 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:26:37,044 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:26:44,988 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:26:44,988 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:26:54,682 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:27:00,105 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:27:00,106 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:27:15,230 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:27:15,231 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:27:15,340 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:27:26,848 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:27:30,363 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:27:30,363 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:27:45,523 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:27:45,523 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:27:55,676 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:27:58,789 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:28:00,638 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:28:00,639 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:28:15,791 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:28:15,792 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:28:30,752 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:28:30,909 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:28:30,909 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:28:35,951 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:28:46,014 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:28:46,014 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:29:01,126 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:29:01,127 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:29:02,729 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:29:16,271 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:29:16,272 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:29:16,276 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:29:31,414 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:29:31,415 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:29:34,710 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:29:46,522 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:29:46,522 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:29:56,582 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:30:01,640 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:30:01,640 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:30:06,873 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:30:16,755 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:30:16,756 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:30:31,919 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:30:31,921 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:30:36,888 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:30:38,937 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:30:47,049 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:30:47,049 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:31:02,152 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:31:02,152 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:31:11,098 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:31:16,189 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:31:17,263 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:31:17,264 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:31:32,387 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:31:32,387 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:31:43,149 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:31:47,501 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:31:47,501 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:31:56,475 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:32:02,640 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:32:02,641 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:32:15,133 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:32:17,763 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:32:17,763 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:32:32,876 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:32:32,878 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:32:36,778 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:32:47,198 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:32:47,975 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:32:47,975 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:33:03,082 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:33:03,083 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:33:17,083 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:33:18,204 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:33:18,204 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:33:19,432 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:33:33,315 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:33:33,315 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:33:48,452 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:33:48,454 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:33:51,521 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:33:57,379 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:34:03,597 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:34:03,598 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:34:18,754 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:34:18,754 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:34:23,282 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:34:33,881 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:34:33,881 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:34:37,624 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:34:49,015 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:34:49,015 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:34:55,316 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:35:04,143 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:35:04,144 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:35:17,938 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:35:19,290 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:35:19,290 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:35:27,448 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:35:34,459 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:35:34,459 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:35:49,610 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:35:49,610 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:35:58,269 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:35:59,490 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:36:04,714 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:36:04,714 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:36:19,823 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:36:19,824 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:36:31,459 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:36:34,967 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:36:34,967 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:36:38,565 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:36:50,075 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:36:50,075 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:37:03,494 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:37:05,177 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:37:05,180 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:37:18,860 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:37:20,322 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:37:20,322 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:37:35,350 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:37:35,443 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:37:35,443 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:37:50,547 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:37:50,548 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:37:59,166 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:38:05,658 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:38:05,658 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:38:07,527 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:38:20,793 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:38:20,793 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:38:35,894 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:38:35,894 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:38:39,575 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:38:41,483 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:38:51,012 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:38:51,012 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:39:06,131 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:39:06,133 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:39:11,606 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:39:21,326 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:39:21,326 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:39:23,804 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:39:36,444 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:39:36,444 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:39:43,538 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:39:51,554 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:39:51,555 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:40:03,993 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:40:06,680 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:40:06,680 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:40:14,376 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:40:21,788 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:40:21,788 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:40:36,942 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:40:36,942 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:40:40,136 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:40:45,392 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:40:52,039 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:40:52,040 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:41:07,182 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:41:07,184 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:41:16,257 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:41:16,337 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:41:22,324 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:41:22,324 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:41:37,422 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:41:37,424 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:41:47,310 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:41:52,397 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:41:52,528 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:41:52,528 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:42:07,688 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:42:07,689 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:42:18,264 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:42:22,853 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:42:22,853 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:42:28,518 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:42:37,971 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:42:37,971 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:42:49,280 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:42:53,091 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:42:53,091 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:43:04,661 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:43:08,221 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:43:08,221 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:43:20,266 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:43:23,341 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:43:23,342 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:43:38,487 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:43:38,487 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:43:38,802 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:43:51,209 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:43:53,587 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:43:53,587 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:44:08,721 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:44:08,721 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:44:14,958 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:44:22,204 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:44:23,817 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:44:23,817 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:44:38,931 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:44:38,958 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:44:49,079 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:44:53,153 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:44:54,067 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:44:54,068 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:45:09,195 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:45:09,195 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:45:24,133 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:45:24,326 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:45:24,327 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:45:25,215 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:45:39,466 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:45:39,467 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:45:54,586 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:45:54,587 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:45:55,095 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:46:03,355 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:46:10,033 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:46:10,033 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:46:25,120 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:46:25,120 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:46:26,093 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:46:37,481 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:46:40,269 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:46:40,270 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:46:55,408 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:46:55,409 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:46:57,062 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:47:10,567 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:47:10,567 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:47:13,615 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:47:25,679 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:47:25,680 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:47:27,981 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:47:40,800 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:47:40,800 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:47:49,739 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:47:55,896 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:47:55,896 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:47:58,909 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:48:11,010 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:48:11,011 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:48:25,871 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:48:26,122 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:48:26,122 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:48:29,848 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:48:41,230 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:48:41,230 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:48:56,351 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:48:56,352 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:49:00,803 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:49:01,994 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:49:11,446 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:49:11,446 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:49:26,537 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:49:26,537 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:49:31,757 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:49:36,116 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:49:41,626 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:49:41,626 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:49:56,762 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:49:56,762 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:50:02,759 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:50:11,899 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:50:11,900 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:50:12,252 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:50:27,057 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:50:27,058 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:50:33,715 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:50:42,172 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:50:42,172 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:50:48,392 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:50:57,290 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:50:57,290 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:51:04,761 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:51:12,650 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:51:12,652 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:51:22,524 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:51:27,809 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:51:27,810 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:51:35,797 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:51:42,953 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:51:42,953 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:51:58,070 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:51:58,071 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:51:58,661 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:52:06,783 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:52:13,193 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:52:13,194 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:52:28,373 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:52:28,375 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:52:37,693 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:52:40,812 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:52:43,529 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:52:43,530 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:52:58,654 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:52:58,655 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:53:08,601 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:53:13,767 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:53:13,768 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:53:18,938 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 04:53:28,898 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:53:28,900 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 04:53:41,022 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 04:53:44,070 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 04:53:44,070 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 06:53:52,188 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 06:53:52,189 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 06:54:01,405 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 06:54:07,183 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 06:54:07,483 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 06:54:07,485 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 06:54:18,579 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=None). func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'output.log': {'offset': 0, 'content': ['ERROR 2022-02-25T14:54:00.448020   3%|██▍                                                                                | 152/5101 [3:37:11<3022:54:27, 2198.92s/it]\n']}}, 'dropped': 0}}
+2022-02-25 06:54:22,746 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 06:54:22,749 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 06:54:38,434 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 06:54:38,467 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 06:54:38,469 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 06:54:56,688 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 06:54:56,713 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 08:15:28,572 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 08:15:28,876 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 08:15:28,879 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 08:15:43,809 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=None). func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'complete': False, 'failed': False, 'dropped': 0, 'uploaded': []}}
+2022-02-25 08:15:44,355 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 08:15:44,357 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 08:15:59,882 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 08:16:00,332 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 08:16:00,338 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 08:16:16,908 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 08:16:16,919 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 08:16:19,510 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 08:16:31,393 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 08:16:32,226 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 08:16:32,226 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 08:16:47,397 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 08:16:47,397 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 08:17:02,534 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 08:17:02,535 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 08:17:03,230 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 08:17:03,796 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 08:17:17,653 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 08:17:17,654 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 09:25:42,240 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 09:25:42,241 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 09:25:45,893 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 09:25:57,399 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 09:25:57,400 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 09:26:02,523 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=None). func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 190, 'content': ['{"system.cpu": 17.5, "system.memory": 69.83, "system.disk": 85.47, "system.proc.memory.availableMB": 2470.46, "system.proc.memory.rssMB": 24.56, "system.proc.memory.percent": 0.3, "system.proc.cpu.threads": 13.0, "system.network.sent": 47806464, "system.network.recv": 229882880, "_wandb": true, "_timestamp": 1645805823, "_runtime": 18059}']}, 'output.log': {'offset': 0, 'content': ['ERROR 2022-02-25T16:17:03.035361   3%|██▌                                                                                | 154/5101 [5:00:14<2923:55:55, 2127.79s/it]\n']}}, 'dropped': 0}}
+2022-02-25 09:26:08,044 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 09:26:12,678 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 09:26:12,681 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 09:26:17,346 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 09:26:28,687 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 09:26:28,695 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 10:44:35,050 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 10:44:35,050 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 10:44:41,122 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 10:44:50,196 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 10:44:50,198 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 10:45:05,866 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 10:45:05,868 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 10:45:12,590 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 10:45:17,511 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=None). func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'complete': False, 'failed': False, 'dropped': 0, 'uploaded': []}}
+2022-02-25 10:45:21,158 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 10:45:21,161 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 10:45:36,475 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 10:45:36,476 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 10:45:36,631 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 10:45:43,923 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 10:45:51,618 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 10:45:51,618 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 10:46:06,725 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 10:46:06,726 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 10:46:15,644 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 10:46:16,909 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 10:46:21,826 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 10:46:21,826 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:03:58,612 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:03:58,615 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:04:08,325 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')). func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 196, 'content': ['{"system.cpu": 16.57, "system.memory": 74.07, "system.disk": 85.2, "system.proc.memory.availableMB": 2124.62, "system.proc.memory.rssMB": 25.1, "system.proc.memory.percent": 0.31, "system.proc.cpu.threads": 13.0, "system.network.sent": 49402880, "system.network.recv": 232740864, "_wandb": true, "_timestamp": 1645814775, "_runtime": 27011}']}, 'output.log': {'offset': 0, 'content': ['ERROR 2022-02-25T18:46:16.644496   3%|██▌                                                                                | 157/5101 [7:29:27<3230:49:07, 2352.54s/it]\n']}}, 'dropped': 0}}
+2022-02-25 11:04:10,379 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:04:13,726 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:04:13,727 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:04:29,096 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:04:29,098 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:04:39,748 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:04:41,851 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:04:44,354 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:04:44,355 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:20:03,076 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:20:03,076 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:20:15,038 WARNING FileStreamThread:35063 [file_stream.py:request_with_retry():599] requests_with_retry encountered retryable exception: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')). func: <bound method Session.post of <requests.sessions.Session object at 0x7f9325335590>>, args: ('https://api.wandb.ai/files/drfein/bart_for_sum_synthetic/1hf67mko/file_stream',), kwargs: {'json': {'files': {'wandb-events.jsonl': {'offset': 198, 'content': ['{"system.cpu": 49.06, "system.memory": 73.21, "system.disk": 85.2, "system.proc.memory.availableMB": 2194.57, "system.proc.memory.rssMB": 25.69, "system.proc.memory.percent": 0.31, "system.proc.cpu.threads": 13.0, "system.network.sent": 49921024, "system.network.recv": 233709568, "_wandb": true, "_timestamp": 1645815881, "_runtime": 28117}']}}, 'dropped': 0}}
+2022-02-25 11:20:18,597 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:20:18,602 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:20:20,005 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:20:33,770 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:20:33,772 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:20:46,993 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:20:49,324 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:20:49,324 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:20:50,753 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:21:04,494 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:21:04,502 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:21:19,719 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:21:19,719 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:21:21,661 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:21:25,143 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:21:34,835 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:21:34,835 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:21:49,988 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:21:49,993 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:21:52,616 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:22:05,158 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:22:05,158 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:22:05,307 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:22:20,754 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:22:20,755 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:22:23,580 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:22:35,886 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:22:35,887 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:22:47,461 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:22:51,012 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:22:51,012 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:22:54,606 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:23:06,145 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:23:06,145 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:23:21,272 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:23:21,273 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:23:25,679 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:23:27,623 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:23:36,377 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:23:36,378 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:23:51,485 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:23:51,486 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:23:56,790 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:24:03,768 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:24:06,606 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:24:06,606 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:24:21,738 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:24:21,739 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:24:27,882 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:24:36,858 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:24:36,858 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:24:39,899 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:24:52,016 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:24:52,017 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:24:58,979 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:25:07,124 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:25:07,125 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:25:14,024 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:25:22,247 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:25:22,248 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:25:30,092 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:25:37,375 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:25:37,376 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:25:50,161 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:25:52,487 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:25:52,487 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:26:01,170 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:26:07,591 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:26:07,591 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:26:22,751 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:26:22,752 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:26:26,304 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:26:32,264 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:26:37,873 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:26:37,873 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:26:52,971 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:26:52,972 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:27:00,440 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:27:03,365 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:27:08,062 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:27:08,062 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:27:24,218 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:27:24,221 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:27:34,554 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:27:38,622 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:27:39,320 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:27:39,320 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:27:54,429 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:27:54,429 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:28:06,521 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:28:09,545 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:28:09,546 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:28:16,951 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:28:24,791 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:28:24,791 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:28:38,586 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:28:39,926 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:28:39,926 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:28:55,026 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:28:55,027 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:28:57,223 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:29:10,168 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:29:10,169 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:29:10,595 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:29:25,483 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:29:25,483 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:29:35,489 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:29:40,595 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:29:40,595 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:29:42,496 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:29:55,717 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:29:55,719 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:30:10,831 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:30:10,832 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:30:13,463 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:30:15,639 INFO    Thread-8  :35063 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220225_031604-1hf67mko/files/output.log
+2022-02-25 11:30:25,997 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:30:26,012 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:30:41,611 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:30:41,629 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:30:44,528 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
+2022-02-25 11:30:59,709 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:30:59,713 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:31:15,142 DEBUG   HandlerThread:35063 [handler.py:handle_request():131] handle_request: stop_status
+2022-02-25 11:31:15,143 DEBUG   SenderThread:35063 [sender.py:send_request():249] send_request: stop_status
+2022-02-25 11:31:15,245 DEBUG   SenderThread:35063 [sender.py:send():235] send: stats
