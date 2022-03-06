@@ -1,0 +1,1 @@
+{"eval/loss": 5.27345085144043, "eval/rouge1": 14.5389, "eval/rouge2": 1.5619, "eval/rougeL": 11.4846, "eval/rougeLsum": 11.4825, "eval/gen_len": 20.0, "eval/runtime": 985.0652, "eval/samples_per_second": 0.102, "train/global_step": 0, "_runtime": 992, "_timestamp": 1646601165, "_step": 0, "_wandb": {"runtime": 1079}}

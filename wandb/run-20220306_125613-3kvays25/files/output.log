@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████████████| 25/25 [15:49<00:00, 37.98s/it]
+
+
+  1%|▊                                                                                      | 2/225 [01:16<2:25:30, 39.15s/it]Traceback (most recent call last):
+  File "finetune_xSum.py", line 179, in <module>
+    trainer.train()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/trainer.py", line 1272, in train
+    tr_loss += self.training_step(model, inputs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/trainer.py", line 1734, in training_step
+    loss = self.compute_loss(model, inputs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/trainer.py", line 1766, in compute_loss
+    outputs = model(**inputs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 1299, in forward
+    return_dict=return_dict,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 1187, in forward
+    return_dict=return_dict,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 1053, in forward
+    use_cache=use_cache,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 419, in forward
+    output_attentions=output_attentions,
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/transformers/models/bart/modeling_bart.py", line 174, in forward
+    query_states = self.q_proj(hidden_states) * self.scaling
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/modules/linear.py", line 94, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/torch/nn/functional.py", line 1753, in linear
+    return torch._C._nn.linear(input, weight, bias)
+KeyboardInterrupt

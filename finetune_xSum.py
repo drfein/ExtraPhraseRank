@@ -30,7 +30,7 @@ encoder_max_length = 256  # demo
 decoder_max_length = 64
 
 # Download dataset
-data = datasets.load_dataset("xsum", split='train')
+data = datasets.load_dataset("xsum", split='train[:1000]')
 
 # Format and split data
 def flatten(example):
