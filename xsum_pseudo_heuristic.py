@@ -21,7 +21,7 @@ nltk.download('punkt')
 
 
 print("Getting dataset")
-xsum_data = load_dataset("xsum", split="train[:1000]")
+xsum_data = load_dataset("xsum", split="train[:2]")
 
 loader = DataLoader(xsum_data, batch_size=len(xsum_data))
 x_sum = next(iter(loader))
@@ -29,13 +29,14 @@ documents = x_sum['document']
 summaries = x_sum['summary']
 
 #Find the average number of words in dataset
-total_words = 0
+sum_lengths = []
 for sum in summaries:
-    summary_words = sum.split()
-    summary_len = len(sum)
-    total_words += summary_len
-
-avg_num_words = int(total_words/len(summaries))
+    print("############################################################################")
+    print("Summary: " + sum)
+    print("############################################################################")
+    summary_words = sum.split(" ")
+    summary_len = len(summary_words)
+    sum_lengths.append(summary_len)
 
 #Create pseudosummaries using heuristic
 print("Creating pseudosummaries")
@@ -62,11 +63,11 @@ def grab_first(doc, words):
 
 new_summaries = []
 count = 0
-for doc in tqdm(documents):
+for idx, doc in tqdm(enumerate(documents)):
   count += 1
   if count == 10000:
     break
-  new_summary = grab_first(doc, avg_num_words)
+  new_summary = grab_first(doc, sum_lengths[idx])
   new_summaries.append(new_summary)
 
 # Backtranslate the sentences
@@ -88,8 +89,9 @@ for idx, sum in tqdm(enumerate(new_summaries[start:])):
     
     de = str(en_to_de(sum)[0]['translation_text'])
     en = de_to_en(de)[0]['translation_text']
-    print(en)
-    print('$' * 30)
-    print(documents[start + idx])
+    print("Pseudo-Summary: " + en)
+    print("############################################################################")
+    print("Document: " + documents[start + idx])
+    print("############################################################################")
     new_sums.append(en)
     sum_docs.append(documents[start + idx])

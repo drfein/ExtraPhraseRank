@@ -29,5 +29,3 @@ def grab_first(doc, words):
     # Join the sentences together
     summary = ' '.join(result_sentences)
     return summary
-
-print(grab_first("Hi I'm Daniel. Daniel likes to swim. I like to climb trees.", 4))
