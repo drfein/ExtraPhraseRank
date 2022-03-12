@@ -89,7 +89,7 @@ for idx, sum in tqdm(enumerate(new_summaries[start:])):
     
     de = str(en_to_de(sum)[0]['translation_text'])
     en = de_to_en(de)[0]['translation_text']
-    print("Pseudo-Summary: " + en)
+    # print("Pseudo-Summary: " + en)
     # print("############################################################################")
     # print("Document: " + documents[start + idx])
     # print("############################################################################")
