@@ -56,13 +56,11 @@ for idx, sum in tqdm(enumerate(new_summaries[start:])):
         with open('json_half_' + str(count) + '.json', 'w') as outfile:
             json.dump(dictionary, outfile)
     
-    if count < 1000:
-        new_sums.append(sum)
+    if count < 0:
+        new_sums.append(summaries[start + idx])
         sum_docs.append(documents[start + idx])
     else:
         de = str(en_to_de(sum)[0]['translation_text'])
         en = de_to_en(de)[0]['translation_text']
-        # print("Pseudo-Summary: " + en)
-        # print("############################################################################")
         new_sums.append(en)
         sum_docs.append(documents[start + idx])
