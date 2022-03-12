@@ -31,7 +31,7 @@ encoder_max_length = 256  # demo
 decoder_max_length = 64
 
 # Download dataset
-with open('json_half_1000.json') as json_file:
+with open('json_half_500.json') as json_file:
     data_dict = json.load(json_file)
 data = datasets.Dataset.from_dict(data_dict)
 

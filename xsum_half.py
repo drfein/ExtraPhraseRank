@@ -51,12 +51,12 @@ for idx, sum in tqdm(enumerate(new_summaries[start:])):
     count += 1
 
     # set to the number of examples
-    if count == 1000:
+    if count == 500:
         dictionary = {'document': sum_docs, 'summary': new_sums}
         with open('json_half_' + str(count) + '.json', 'w') as outfile:
             json.dump(dictionary, outfile)
     
-    if count < 500:
+    if count < 501:
         new_sums.append(summaries[start + idx])
         sum_docs.append(documents[start + idx])
     else:
