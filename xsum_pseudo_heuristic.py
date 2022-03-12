@@ -31,9 +31,9 @@ summaries = x_sum['summary']
 #Find the average number of words in dataset
 sum_lengths = []
 for sum in summaries:
-    print("############################################################################")
-    print("Summary: " + sum)
-    print("############################################################################")
+    # print("############################################################################")
+    # print("Summary: " + sum)
+    # print("############################################################################")
     summary_words = sum.split(" ")
     summary_len = len(summary_words)
     sum_lengths.append(summary_len)
@@ -82,7 +82,7 @@ for idx, sum in tqdm(enumerate(new_summaries[start:])):
     count += 1
 
     # set to the number of examples
-    if count % 200 == 0:
+    if count % 500 == 0:
         dictionary = {'document': sum_docs, 'summary': new_sums}
         with open('json_heuristic_' + str(count) + '.json', 'w') as outfile:
             json.dump(dictionary, outfile)
@@ -90,8 +90,8 @@ for idx, sum in tqdm(enumerate(new_summaries[start:])):
     de = str(en_to_de(sum)[0]['translation_text'])
     en = de_to_en(de)[0]['translation_text']
     print("Pseudo-Summary: " + en)
-    print("############################################################################")
-    print("Document: " + documents[start + idx])
-    print("############################################################################")
+    # print("############################################################################")
+    # print("Document: " + documents[start + idx])
+    # print("############################################################################")
     new_sums.append(en)
     sum_docs.append(documents[start + idx])

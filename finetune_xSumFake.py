@@ -36,7 +36,7 @@ with open('json_extraphraserank_1000.json') as json_file:
 data = datasets.Dataset.from_dict(data_dict)
 
 # Download validation data
-data_for_val = datasets.load_dataset("xsum", split='train')
+data_for_val = datasets.load_dataset("xsum", split='train[:1000')
 
 
 # Format and split data
