@@ -19,7 +19,7 @@ import wandb
 wandb.login()
 
 language = "english"
-
+torch.manual_seed(0)
 # Get model and tokenizer
 model_name = "facebook/bart-base"
 model = AutoModelForSeq2SeqLM.from_pretrained(model_name)

@@ -52,7 +52,7 @@ for idx, sum in tqdm(enumerate(new_summaries[start:])):
     # set to the number of examples
     if count % 200 == 0:
         dictionary = {'document': sum_docs, 'summary': new_sums}
-        with open('json_data_' + str(count) + '.json', 'w') as outfile:
+        with open('json_extrarank_' + str(count) + '.json', 'w') as outfile:
             json.dump(dictionary, outfile)
     new_sums.append(sum)
     sum_docs.append(documents[start + idx])

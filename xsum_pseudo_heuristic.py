@@ -21,7 +21,7 @@ nltk.download('punkt')
 
 
 print("Getting dataset")
-xsum_data = load_dataset("xsum", split="train[:2]")
+xsum_data = load_dataset("xsum", split="train[:1000]")
 
 loader = DataLoader(xsum_data, batch_size=len(xsum_data))
 x_sum = next(iter(loader))
@@ -84,7 +84,7 @@ for idx, sum in tqdm(enumerate(new_summaries[start:])):
     # set to the number of examples
     if count % 200 == 0:
         dictionary = {'document': sum_docs, 'summary': new_sums}
-        with open('json_data_' + str(count) + '.json', 'w') as outfile:
+        with open('json_heuristic_' + str(count) + '.json', 'w') as outfile:
             json.dump(dictionary, outfile)
     
     de = str(en_to_de(sum)[0]['translation_text'])

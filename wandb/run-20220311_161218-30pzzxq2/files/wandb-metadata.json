@@ -1,0 +1,22 @@
+{
+    "os": "Darwin-21.3.0-x86_64-i386-64bit",
+    "python": "3.7.7",
+    "heartbeatAt": "2022-03-12T00:12:27.926991",
+    "startedAt": "2022-03-12T00:12:18.209181",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "finetune_xSum.py",
+    "codePath": "finetune_xSum.py",
+    "git": {
+        "remote": "https://github.com/drfein/ExtraPhraseRank.git",
+        "commit": "a5723260aef7c7f626a88aa06aa0701f87ee00e1"
+    },
+    "email": "82621820+drfein@users.noreply.github.com",
+    "root": "/Users/danielfein/Desktop/ExtraPhraseRank",
+    "host": "DN0a1fe54c.SUNet",
+    "username": "danielfein",
+    "executable": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3"
+}
