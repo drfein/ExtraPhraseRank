@@ -19,23 +19,24 @@ documents = x_sum['document']
 summaries = x_sum['summary']
 
 #Find the average number of words in dataset
-total_words = 0
+sum_lengths = []
 for sum in summaries:
-    summary_words = sum.split()
-    summary_len = len(sum)
-    total_words += summary_len
-
-avg_num_words = int(total_words/len(summaries))
+    # print("############################################################################")
+    # print("Summary: " + sum)
+    # print("############################################################################")
+    summary_words = sum.split(" ")
+    summary_len = len(summary_words)
+    sum_lengths.append(summary_len)
 
 #Create pseudosummaries using summarizer
 print("Creating pseudosummaries")
 new_summaries = []
 count = 0
-for doc in tqdm(documents):
+for idx, doc in tqdm(enumerate(documents)):
   count += 1
   if count == 10000:
     break
-  new_summary = summarizer.summarize(doc, words=avg_num_words)
+  new_summary = summarizer.summarize(doc, words=sum_lengths[idx])
   new_summaries.append(new_summary)
 
 # Backtranslate the sentences
