@@ -11,7 +11,7 @@ from transformers import pipeline
 
 
 print("Getting dataset")
-xsum_data = load_dataset("xsum", split="train[:1000]")
+xsum_data = load_dataset("xsum", split="train[:2]")
 
 loader = DataLoader(xsum_data, batch_size=len(xsum_data))
 x_sum = next(iter(loader))
@@ -55,5 +55,7 @@ for idx, sum in tqdm(enumerate(new_summaries[start:])):
         dictionary = {'document': sum_docs, 'summary': new_sums}
         with open('json_extrarank_' + str(count) + '.json', 'w') as outfile:
             json.dump(dictionary, outfile)
+    print(sum)
+    print("&&&&&&&&&&&&&&&")
     new_sums.append(sum)
     sum_docs.append(documents[start + idx])

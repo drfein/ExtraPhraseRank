@@ -1,0 +1,108 @@
+2022-03-13 18:28:31,412 INFO    MainThread:25920 [internal.py:wandb_internal():92] W&B internal server running at pid: 25920, started at: 2022-03-13 18:28:31.412306
+2022-03-13 18:28:31,414 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: check_version
+2022-03-13 18:28:31,414 INFO    WriterThread:25920 [datastore.py:open_for_write():77] open: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/run-12kbuc60.wandb
+2022-03-13 18:28:31,416 DEBUG   SenderThread:25920 [sender.py:send():235] send: header
+2022-03-13 18:28:31,416 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: check_version
+2022-03-13 18:28:31,563 DEBUG   SenderThread:25920 [sender.py:send():235] send: run
+2022-03-13 18:28:31,787 INFO    SenderThread:25920 [dir_watcher.py:__init__():169] watching files in: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files
+2022-03-13 18:28:31,787 INFO    SenderThread:25920 [sender.py:_start_run_threads():812] run started: 12kbuc60 with start time 1647221310
+2022-03-13 18:28:31,788 DEBUG   SenderThread:25920 [sender.py:send():235] send: summary
+2022-03-13 18:28:31,788 INFO    SenderThread:25920 [sender.py:_save_file():944] saving file wandb-summary.json with policy end
+2022-03-13 18:28:31,791 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: run_start
+2022-03-13 18:28:32,978 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_created():217] file/dir created: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/wandb-summary.json
+2022-03-13 18:28:36,712 DEBUG   HandlerThread:25920 [meta.py:__init__():36] meta init
+2022-03-13 18:28:36,712 DEBUG   HandlerThread:25920 [meta.py:__init__():50] meta init done
+2022-03-13 18:28:36,712 DEBUG   HandlerThread:25920 [meta.py:probe():210] probe
+2022-03-13 18:28:36,713 DEBUG   HandlerThread:25920 [meta.py:_setup_git():200] setup git
+2022-03-13 18:28:36,742 DEBUG   HandlerThread:25920 [meta.py:_setup_git():207] setup git done
+2022-03-13 18:28:36,743 DEBUG   HandlerThread:25920 [meta.py:_save_pip():54] save pip
+2022-03-13 18:28:36,744 DEBUG   HandlerThread:25920 [meta.py:_save_pip():68] save pip done
+2022-03-13 18:28:36,744 DEBUG   HandlerThread:25920 [meta.py:probe():248] probe done
+2022-03-13 18:28:36,752 DEBUG   SenderThread:25920 [sender.py:send():235] send: files
+2022-03-13 18:28:36,752 INFO    SenderThread:25920 [sender.py:_save_file():944] saving file wandb-metadata.json with policy now
+2022-03-13 18:28:36,759 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:28:36,759 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:28:36,931 DEBUG   SenderThread:25920 [sender.py:send():235] send: run
+2022-03-13 18:28:36,992 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/config.yaml
+2022-03-13 18:28:36,992 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_created():217] file/dir created: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:28:36,992 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_created():217] file/dir created: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/requirements.txt
+2022-03-13 18:28:36,993 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_created():217] file/dir created: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/wandb-metadata.json
+2022-03-13 18:28:37,061 INFO    SenderThread:25920 [sender.py:send_run():707] updated run: 12kbuc60
+2022-03-13 18:28:37,157 INFO    Thread-11 :25920 [upload_job.py:push():137] Uploaded file /var/folders/nk/1f875pyj7td13zbw2dx0g8km0000gn/T/tmpqouepg3qwandb/2n3hldim-wandb-metadata.json
+2022-03-13 18:28:51,934 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:28:51,936 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:29:05,551 DEBUG   SenderThread:25920 [sender.py:send():235] send: stats
+2022-03-13 18:29:07,268 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:29:07,268 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:29:13,107 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:29:22,450 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:29:22,450 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:29:36,413 DEBUG   SenderThread:25920 [sender.py:send():235] send: stats
+2022-03-13 18:29:37,778 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:29:37,778 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:29:51,221 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:29:52,914 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:29:52,914 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:30:07,315 DEBUG   SenderThread:25920 [sender.py:send():235] send: stats
+2022-03-13 18:30:08,156 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:30:08,157 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:30:23,339 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:30:23,340 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:30:25,408 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:30:38,273 DEBUG   SenderThread:25920 [sender.py:send():235] send: stats
+2022-03-13 18:30:38,555 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:30:38,556 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:30:53,686 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:30:53,687 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:31:01,546 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:31:09,027 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:31:09,028 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:31:09,189 DEBUG   SenderThread:25920 [sender.py:send():235] send: stats
+2022-03-13 18:31:24,153 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:31:24,154 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:31:35,675 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:31:39,370 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:31:39,371 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:31:40,141 DEBUG   SenderThread:25920 [sender.py:send():235] send: stats
+2022-03-13 18:31:54,613 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:31:54,613 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:32:09,798 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:32:09,799 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:32:11,116 DEBUG   SenderThread:25920 [sender.py:send():235] send: stats
+2022-03-13 18:32:11,808 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:32:24,922 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:32:24,924 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:32:40,213 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:32:40,216 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:32:41,982 DEBUG   SenderThread:25920 [sender.py:send():235] send: stats
+2022-03-13 18:32:49,928 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:32:55,328 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:32:55,328 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:33:10,638 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:33:10,639 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:33:12,906 DEBUG   SenderThread:25920 [sender.py:send():235] send: stats
+2022-03-13 18:33:24,037 INFO    Thread-8  :25920 [dir_watcher.py:_on_file_modified():230] file/dir modified: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:33:25,745 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:33:25,745 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:33:41,200 DEBUG   HandlerThread:25920 [handler.py:handle_request():131] handle_request: stop_status
+2022-03-13 18:33:41,203 DEBUG   SenderThread:25920 [sender.py:send_request():249] send_request: stop_status
+2022-03-13 18:33:41,548 WARNING MainThread:25920 [internal.py:wandb_internal():152] Internal process interrupt: 1
+2022-03-13 18:33:42,534 WARNING MainThread:25920 [internal.py:wandb_internal():152] Internal process interrupt: 2
+2022-03-13 18:33:42,534 ERROR   MainThread:25920 [internal.py:wandb_internal():155] Internal process interrupted.
+2022-03-13 18:33:42,871 INFO    WriterThread:25920 [datastore.py:close():281] close: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/run-12kbuc60.wandb
+2022-03-13 18:33:43,278 INFO    HandlerThread:25920 [handler.py:finish():739] shutting down handler
+2022-03-13 18:33:43,329 INFO    SenderThread:25920 [sender.py:finish():1075] shutting down sender
+2022-03-13 18:33:43,330 INFO    SenderThread:25920 [dir_watcher.py:finish():283] shutting down directory watcher
+2022-03-13 18:33:44,109 INFO    SenderThread:25920 [dir_watcher.py:finish():313] scan: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files
+2022-03-13 18:33:44,110 INFO    SenderThread:25920 [dir_watcher.py:finish():327] scan save: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/requirements.txt requirements.txt
+2022-03-13 18:33:44,111 INFO    SenderThread:25920 [dir_watcher.py:finish():327] scan save: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log output.log
+2022-03-13 18:33:44,112 INFO    SenderThread:25920 [dir_watcher.py:finish():327] scan save: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/config.yaml config.yaml
+2022-03-13 18:33:44,122 INFO    SenderThread:25920 [dir_watcher.py:finish():327] scan save: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/wandb-summary.json wandb-summary.json
+2022-03-13 18:33:44,122 INFO    SenderThread:25920 [dir_watcher.py:finish():327] scan save: /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/wandb-metadata.json wandb-metadata.json
+2022-03-13 18:33:44,123 INFO    SenderThread:25920 [file_pusher.py:finish():177] shutting down file pusher
+2022-03-13 18:33:44,123 INFO    SenderThread:25920 [file_pusher.py:join():182] waiting for file pusher
+2022-03-13 18:33:44,642 INFO    Thread-14 :25920 [upload_job.py:push():137] Uploaded file /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/config.yaml
+2022-03-13 18:33:44,643 INFO    Thread-15 :25920 [upload_job.py:push():137] Uploaded file /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/wandb-summary.json
+2022-03-13 18:33:44,645 INFO    Thread-12 :25920 [upload_job.py:push():137] Uploaded file /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/requirements.txt
+2022-03-13 18:33:44,646 INFO    Thread-13 :25920 [upload_job.py:push():137] Uploaded file /Users/danielfein/Desktop/ExtraPhraseRank/wandb/run-20220313_182830-12kbuc60/files/output.log
+2022-03-13 18:33:45,372 INFO    MainThread:25920 [internal.py:handle_exit():79] Internal process exited
